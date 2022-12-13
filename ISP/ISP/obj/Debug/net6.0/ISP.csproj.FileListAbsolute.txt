@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\bin\Debug\net6.0\ISP.exe
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\bin\Debug\net6.0\ISP.deps.json
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\bin\Debug\net6.0\ISP.runtimeconfig.json
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\bin\Debug\net6.0\ISP.dll
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\bin\Debug\net6.0\ISP.pdb
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\obj\Debug\net6.0\ISP.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\obj\Debug\net6.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\obj\Debug\net6.0\ISP.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\obj\Debug\net6.0\ISP.AssemblyInfo.cs
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\obj\Debug\net6.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\obj\Debug\net6.0\ISP.dll
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\obj\Debug\net6.0\refint\ISP.dll
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\obj\Debug\net6.0\ISP.pdb
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\obj\Debug\net6.0\ISP.genruntimeconfig.cache
+C:\Users\HP\Desktop\Single-responsiblity Principle\ISP\ISP\obj\Debug\net6.0\ref\ISP.dll

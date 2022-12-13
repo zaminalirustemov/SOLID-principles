@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\bin\Debug\net6.0\SRP.exe
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\bin\Debug\net6.0\SRP.deps.json
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\bin\Debug\net6.0\SRP.runtimeconfig.json
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\bin\Debug\net6.0\SRP.dll
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\bin\Debug\net6.0\SRP.pdb
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\obj\Debug\net6.0\SRP.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\obj\Debug\net6.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\obj\Debug\net6.0\SRP.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\obj\Debug\net6.0\SRP.AssemblyInfo.cs
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\obj\Debug\net6.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\obj\Debug\net6.0\SRP.dll
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\obj\Debug\net6.0\refint\SRP.dll
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\obj\Debug\net6.0\SRP.pdb
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\obj\Debug\net6.0\SRP.genruntimeconfig.cache
+C:\Users\HP\Desktop\Single-responsiblity Principle\SRP\SRP\obj\Debug\net6.0\ref\SRP.dll
